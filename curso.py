@@ -23,13 +23,16 @@
 # Raíz cuadrada
 25 ** 0.5
 
-# Variables u objetvos en Python
+# Variables en Python
+
 # Debemos pensar en las variables como una caja donde guardamso cosas. 
 # Primero debemos darle un nombre al objeto o variable
 # Despues debemos agregar el asignador (en Python de usa el signo =)
 # Por último agregamos las cosas que queremos guardar en la variable.
-# Esto ser vería algo así: 
-# nombre_variable = cosas a guardar
+# La sintaxis es de la siguiente manera: 
+# nombre_variable = contenido
+
+# Tipos de objetos en Phyton
 
 # Objetos númericos (integers)
 
