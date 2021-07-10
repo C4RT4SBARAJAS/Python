@@ -65,3 +65,38 @@ edad2 = int(edad2)
 
 # Cambiando un númerico a string usando la función str()
 str(edad1)
+
+# Operadores lógicos
+# Definamos dos variables que describen la situación de un estudiante llamado Heriberto: 
+estudia = True
+trabaja = False
+
+# Realizando algúnas preguntas sobre Heriberto:
+# 1. ¿Heriberto estudia y trabaja?
+estudia and trabaja
+# 2. ¿Heriberto estudia o almenos trabaja?
+estudia or trabaja
+
+# Invirtiendo el valor de las variables
+not estudia
+not trabaja
+
+# Operadores de comparación
+# Definamos 3 variables que guardan las edades de tres personas diferentes:
+heriberto = 21
+erika = 21
+arlet = 19
+
+# Realizando algúnas preguntas sobre las edades:
+# 1. ¿La edad de heriberto es igual a la edada de erika?
+heriberto == erika
+# 2. ¿La edad de heriberto es mayor que la edad de erika?
+heriberto > erika
+# 3. ¿La edad de erika es menor a la edad de arlet?
+erika < arlet
+# 4. ¿La edad de erika es mayor o igual a la edad de arlet?
+erika >= arlet
+# 5. ¿La edada de arlet es menor o igual a la edad de heriberto?
+arlet <= heriberto
+# 6. ¿La edad de erika es distinta a la edad de heriberto?
+erika != heriberto
