@@ -125,7 +125,6 @@ else:
 
 # Funciones en Python.
 # A continuación, repetimos dos líneas de codigo intencionalmente.
-
 print("Ingresa tu nombre: ")
 print("Comentarios: ")
 print("Ingresa tu nombre: ")
@@ -142,3 +141,33 @@ def mi_funcion():
 mi_funcion()
 mi_funcion()
 mi_funcion()
+
+# Parámetros en una función.
+# Los parámetros funcionan como variables dentro de una función, es el mensaje que cambia. 
+
+# A continuación, repetimos 4 líneas de codigo intencionalmente.
+print("Hola")
+print("Muchas felicidades")
+print("Elejiste la opción 1")
+print("Hasta luego")
+print("Hola")
+print("Muchas felicidades")
+print("Elejiste la opción 2")
+print("Hasta luego")
+print("Hola")
+print("Muchas felicidades")
+print("Elejiste la opción 3")
+print("Hasta luego")
+
+# Como pudiste observar hay 3 líneas de códigos comunes en cada repetición.
+# Ahora escribamos este código de una forma más corta usando una función y un parámetro:
+def respuestas(mensaje):
+    print("Hola")
+    print("Muchas felicidades")
+    print(mensaje)
+    print("Hasta luego")
+
+# Para generar el bloque de código de 4 líneas llamamos a la función creada, modificando unicamente el parámetro mensaje:
+respuestas("Elegiste la opción 1")
+respuestas("Elegiste la opción 2")
+respuestas("Elegiste la opción 3")

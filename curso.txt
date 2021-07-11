@@ -1,5 +1,8 @@
 Bienvenido al curso de Python desde cero, te saluda Heriberto Cartas Barrera.
 
-Antes de empezar dejame decirte que no es un curso terminado. Yo como tú también estoy aprendiedo de este gran lenguaje, y me gustaría documentar todo este aprendizaje mediante un curso que te servirá a tí si estas empezando, y a mí para documentar lo aprendido. 
+Antes de empezar dejame decirte que no es un curso terminado. Yo como tú también estoy aprendiedo de este gran lenguaje, y quise documentar todo este aprendizaje mediante un curso, que me terminará ayudando a mí, así como a tí si estas empezando con este gran lenguaje. 
 
-NOTA: Todo el código que aquí te presento realizado en Visual Studio Code y corridos en una terminal usando Windows Subsystem for Linux 20.0.
+WARNING: Los programas que utilizo para crear y correr el código son ..
+- Visual Studio Code
+- Extención Python 3.8.5 64-bit
+- WSL: Ubuntu-20.04
