@@ -1,5 +1,6 @@
-# Nombre del programa: Funciones
+# Nombre del programa: Elige una opción.
 
+# Función.
 # def mi_funcion():
 #     print("Bienvenido al curso")
 #     print("Ingresa tu nombre: ")
@@ -8,6 +9,7 @@
 # mi_funcion()
 # mi_funcion()
 
+# Función con un parámetro.
 opcion = int(input("Elige una opción (1, 2, 3): "))
 
 def respuestas(mensaje):
