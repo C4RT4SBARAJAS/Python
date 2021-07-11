@@ -100,3 +100,45 @@ erika >= arlet
 arlet <= heriberto
 # 6. ¿La edad de erika es distinta a la edad de heriberto?
 erika != heriberto
+
+# Condicionales en Python.
+# Definamos 2 respuestas en base a mi edad, teniendo en cuenta que tengo 21 años. Sí mi edad es menor a 18 años entonces soy menor de edad y sí no entonces soy mayor de edad.
+
+mi_edad = 21
+# Una condicional en python luce de la siguiente manera:
+if mi_edad < 18:
+    print("Soy menor de edad")
+else:
+    print("Soy mayor de edad")
+
+# Condicionales booleanas en Python.
+# Definamos 3 respuestas de acuerdo a mi estatura en centímetros, considerando que mido 170 cm. Sí mi estatura es menor a 170 cm entonces soy chaparro, sí mi estatura esta entre los 170 y 179 cm entonces soy alto, y sí no es que soy muy alto.
+
+mi_estatura = 170
+# La condicional luce de la siguiente manera:
+if mi_estatura < 170:
+    print("Soy chaparro")
+elif mi_estatura >= 170 and mi_estatura <= 169:
+    print("Soy alto")
+else:
+    print("Soy muy alto")
+
+# Funciones en Python.
+# A continuación, repetimos dos líneas de codigo intencionalmente.
+
+print("Ingresa tu nombre: ")
+print("Comentarios: ")
+print("Ingresa tu nombre: ")
+print("Comentarios: ")
+print("Ingresa tu nombre: ")
+print("Comentarios: ")
+
+# Las funciones nos evitan repetir líneas de código guardando ese código en funciones que nosotros mismos creamos. Las funciones son una buena práctica. Nuestra función se vería así:
+def mi_funcion():
+    print("Ingresa tu nombre: ")
+    print("Comentarios: ")
+
+# Para ejectur estas lineas de código llamamos a al función el número de veces que queramos:
+mi_funcion()
+mi_funcion()
+mi_funcion()
