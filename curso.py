@@ -48,7 +48,60 @@ var3_str = "Barrera"
 var1_boo = True
 var2_boo = False
 
-# Función input():
+# Operaciones con cadena de caracteres.
+# Definimos tres variables donde la primera guradará el nombre de una persona, la segunda el primer apellido y la tercera el segundo apellido.
+nombre = "heriberto"
+apellido1 = "cartas"
+apellido2 = "barrera"
+
+# Podemos sumar caracteres logrando formar cadenas:
+nombre + apellido1 + apellido2
+
+# Podemos agregar espacios de la siguiente manera y guardar en una variable:
+nombre_completo = nombre + " " + apellido1 + " " + apellido2
+
+# Métodos en Python.
+# Un método es una función para un tipo de dato en particular que tiene la siguiente sintaxis en python:
+# dato_tipo.nombre_función()
+
+# Cambiar el texto a Mayusculas en la variable nombre:
+nombre.upper()
+
+# Colocar la primera letra en Mayusculas en las tres variables, y sobreescribiendo la variable:
+nombre = nombre.capitalize()
+nombre = apellido1.capitalize()
+nombre = apellido2.capitalize()
+
+# Eliminar espacios basura al inicio o final:
+nombre = "heriberto "
+nombre.strip()
+
+# Cambiar el texto a minusculas:
+nombre = "HERIBERTO"
+nombre.lower()
+
+# Remplazar una letra por otra, utilzando párametros:
+nombre = "heriberto"
+nombre.replace("o", "a")
+
+# Índices en Python.
+# Permiten devolver una letra en específico de una cadena. Presentando la siguente sintaxis:
+# dato_tipo_string[algún dígito contando desde el 0]
+
+# Devolviendo la primera letra de la variable nombre:
+nombre = "heriberto"
+nombre[0]
+
+# Devolviendo la última letra de la variable nombre:
+nombre[8]
+
+# Función len().
+# Pemite devolver la longitud de un dato_tipo_string. Es decir, cuantas letras existen en mi variable nombre por ejemplo:
+nombre = "heriberto"
+len(nombre)
+len("Bienvenido al curso de Python desde cero")
+
+# Función input().
 # Esta función te permite agregar datos a tus variables de forma más cómoda
 edad1 = input("Ingresa tu edad: ")
 edad2 = input("Ingresa tu edad: ")
