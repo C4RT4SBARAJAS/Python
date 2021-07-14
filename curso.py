@@ -101,6 +101,24 @@ nombre = "heriberto"
 len(nombre)
 len("Bienvenido al curso de Python desde cero")
 
+# Slices en Python.
+# Los slices en python hacen referencia a rebanadas, donde puedes cortar una cadena de caracteres en las partes que desees. Para ello necesitamos conocer el número de letras que formar el string:
+nombre = "heriberto"
+nombre[0:4]
+
+# Partiendo en dos rebanadas el string "heriberto":
+nombre[:4]
+nombre[4:]
+
+# Podemos agregar un número más que representarían los pasos o separaciones en las reabanadas. Por ejemplo, quiero una rebanada que valla del uno al siete, pero con una separación de dos en dos:
+nombre[1:7:2:]
+
+# Obteniendo el string completo:
+nombre[::]
+
+# Obteniendo el string de forma inversa o al reves:
+nombre[::-1]
+
 # Función input().
 # Esta función te permite agregar datos a tus variables de forma más cómoda
 edad1 = input("Ingresa tu edad: ")
