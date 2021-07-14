@@ -111,7 +111,7 @@ nombre[:4]
 nombre[4:]
 
 # Podemos agregar un número más que representarían los pasos o separaciones en las reabanadas. Por ejemplo, quiero una rebanada que valla del uno al siete, pero con una separación de dos en dos:
-nombre[1:7:2:]
+nombre[1:7:2]
 
 # Obteniendo el string completo:
 nombre[::]
