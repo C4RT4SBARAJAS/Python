@@ -23,6 +23,7 @@
 # contador = round(contador, ndigits = None)
 # print('2 elevado a ' + str(contador) + ' es igual a: ' + str(2**contador))
 
+# Utilzando un ciclo while.
 def run():
     LIMITE = 1000000
 
