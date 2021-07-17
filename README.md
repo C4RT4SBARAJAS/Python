@@ -1,6 +1,6 @@
 
 
-![](https://1000marcas.net/wp-content/uploads/2020/11/Python-logo.png)
+<div><a class="LI-simple-link" href='https://mx.linkedin.com/in/heriberto-cartas-barrera-010930204?trk=profile-badge'><img src='https://camo.githubusercontent.com/fc5927c6a70ae6baaba9cc4bb9fb7911a60acf00f49a2723fbdc6257dfe450f2/68747470733a2f2f313030306d61726361732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31312f507974686f6e2d6c6f676f2e706e67' alt='Python' title="Ver más cursos en Linkedin"/></a></div>
 
 ------------
 Un curso increíble para aprender python desde cero.
@@ -26,7 +26,4 @@ Debido al auge de ambos lenguajes de programación, R y Python son dos herramien
 
 Si te interesa el mundo de la programación y su influencia, en este curso gratis es tu gran oportunidad. Te ayudará a ampliar tu currículum y tu experiencia profesional. ¿Estás preparado para revolucionar el futuro? ¡Adéntrate en el mundo de la programación con R y Python!
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="heriberto-cartas-barrera-010930204"><a class="LI-simple-link" href='https://mx.linkedin.com/in/heriberto-cartas-barrera-010930204?trk=profile-badge' style="text-decoration:none"><img src='https://camo.githubusercontent.com/191c8eba9d324d4c14409bd39b2c495da60ea09357e1e68f311eee9713bd9c6b/68747470733a2f2f7374617469632d657870312e6c6963646e2e636f6d2f736364732f636f6d6d6f6e2f752f696d616765732f6c6f676f732f6c696e6b6564696e2f6c6f676f5f6c696e6b6564696e5f39337832315f76322e706e67'/ 
-alt='Linkedin de Heriberto Cartas Barrera'
-title="Linkedin de Heriberto Cartas Barrera">
-</div>
+<div><a class="LI-simple-link" href='https://mx.linkedin.com/in/heriberto-cartas-barrera-010930204?trk=profile-badge'><img src='https://camo.githubusercontent.com/191c8eba9d324d4c14409bd39b2c495da60ea09357e1e68f311eee9713bd9c6b/68747470733a2f2f7374617469632d657870312e6c6963646e2e636f6d2f736364732f636f6d6d6f6e2f752f696d616765732f6c6f676f732f6c696e6b6564696e2f6c6f676f5f6c696e6b6564696e5f39337832315f76322e706e67' alt='Linkedin de Heriberto Cartas Barrera' title="Linkedin de Heriberto Cartas Barrera"/></a></div>
