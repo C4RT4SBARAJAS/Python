@@ -26,6 +26,6 @@ Debido al auge de ambos lenguajes de programación, R y Python son dos herramien
 
 Si te interesa el mundo de la programación y su influencia, en este curso gratis es tu gran oportunidad. Te ayudará a ampliar tu currículum y tu experiencia profesional. ¿Estás preparado para revolucionar el futuro? ¡Adéntrate en el mundo de la programación con R y Python!
 
-![](http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG15.png)
+![](https://static-exp1.licdn.com/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png)
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="heriberto-cartas-barrera-010930204"><a class="LI-simple-link" href='https://mx.linkedin.com/in/heriberto-cartas-barrera-010930204?trk=profile-badge'>Heriberto Cartas Barrera</a></div>
