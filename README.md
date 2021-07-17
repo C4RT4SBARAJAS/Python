@@ -25,3 +25,7 @@ Algunas de las bibliotecas de Python para Data Science son TensorFlow, Keras, Sk
 Debido al auge de ambos lenguajes de programación, R y Python son dos herramientas fundamentales. Son muy importantes en el ámbito de la interesante profesión de Data Sciencist. Ambos proporcionan al alumno un perfil técnico, junto con formación en estadística, modelos predictivos y bases de datos. Todo junto, consiguen que la empleabilidad del programa sea alta.
 
 Si te interesa el mundo de la programación y su influencia, en este curso gratis es tu gran oportunidad. Te ayudará a ampliar tu currículum y tu experiencia profesional. ¿Estás preparado para revolucionar el futuro? ¡Adéntrate en el mundo de la programación con R y Python!
+
+![](http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG15.png)
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="heriberto-cartas-barrera-010930204"><a class="LI-simple-link" href='https://mx.linkedin.com/in/heriberto-cartas-barrera-010930204?trk=profile-badge'>Heriberto Cartas Barrera</a></div>
