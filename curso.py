@@ -242,3 +242,40 @@ def respuestas(mensaje):
 respuestas("Elegiste la opción 1")
 respuestas("Elegiste la opción 2")
 respuestas("Elegiste la opción 3")
+
+# Listas en Python.
+# Las listas son objetos dinámicos donde podemos guardar diferentes tipos de datos, ya sea númerico, flotante, caracter, o buleano.
+# Para crear listas se utiliza la siguiente sintaxis:
+objeto = [4, 2.5, 'Hola', True]
+
+# Para llamar a un dato en especifico dentro de lista. Por ejemplo a primer elemento: 
+objeto[0]
+
+# Al cuarto elemento:
+objeto[3]
+
+# Para agregar otro tipo de dato a la lista utilizamos el método "append()":
+objeto.append(False)
+
+# Para quitar un elemento de la lista utilizamos el método "pop()". Por ejemplo, el elemento tres:
+objeto.pop(2)
+
+# También podemos utilizar slices en un objeto:
+objeto[1:3]
+objeto[::-1]
+
+# Multiplicando listas:
+objeto * 5
+
+# Tuplas en Pyhon.
+# Las tuplas son un tipo de objeto inmutable, es decir aquel que no puede cambiar o no es dinámico. 
+# Muy utiles para acelerar la ejecusión de un programa en pyhon. Tiene la siguiente sintaxis:
+objeto = (1, 2, 3, 4, 5)
+
+# A las tuplas no se le pueden agregar o quitar elementos. Acelera la ejecución:
+for numero in objeto:
+    print(numero)
+
+# Diccionarios en Python.
+# Un diccionario es una estructura de datos de llaves y valores. En los diccionarios a diferencia de las listas para acceder a uno de sus valores utilizamos las llaves "{}" y no los índices "[]".
+# En los diccionarios podemos nombrar a cada elemento, por lo que no es necesario llamarlos con un número del 0 al n+1.
