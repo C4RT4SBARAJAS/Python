@@ -53,3 +53,49 @@ En cada una de estas aplicaciones, Python siempre esta funcionando ahí por deba
 3. Por último, Python es elegante. Python es un lenguaje que necesita de una estructura defina para poder funcionar de manera correcta, ya que si nosotros no respetamos este espaciado que te mencione anteriormente, o no respetamos algunas cuestionaes, el programa no va a funcionar.
 
 Así que, si nosotros queremos fortalecer nuestras como programadores para el futuro, Python es la opción definitva.
+
+# El nucleo de un programa: los algoritmos.
+
+Antes de comenzar a meternos en  programación directamente, antes de utilizar Python, hay un concepto que debes conocer, **el algoritmo**.
+
+## ¿Qué es un algoritmo, cuando nosotros hablamos de esto en programación?
+
+Bueno, es una serie de pasos para resolver un problema.
+
+Pero espera, un algoritmo es más que eso, y para comprenderlo te voy a poner un caso bastante sencillo con el que alguna vez habras pensado. Imagina que quieres perder grasa corporal, quieres entrenar y tener un cuerpo más saludable, ¿qué es lo que harías si quieres lograr este objetivo? bien, primero pensarias seguramente en un plan, voy a entrenar estos días a la semana, voy a alimentarme de esta manera, y quiero ponermen después un objetivo que va a ser bajar tanto peso en tantos meses. Ese sería nuestro pimero paso. Luego comenzariamos a ejecutar eso que ya planeamos: entrenariamos, luego nos alimetaríamos de manera saludable y descansariamos un día. Y repetimos el proceso, entrenamos, nos alimetamos de manera saludable, y descansamos un día, repetimos el proceso, y así, hasta que nosotros complimos nuestro objetivo que es bajar de peso. Bueno acabas de ver por ti mismo lo que es un algoritmo. Es bastante sencillo, como te dije al principio es una serie de pasos para resolver un problema. En este caso nuestro problema era tener un cuerpo más saludable y definimos una serie de pasos ordenados para hacerlo. Pero como te dije un algoritmo tiene ciertas características especiales ...
+
+
+
+Por ejemplo, nosotros sabemos que para construir un algoritmo que funcione no podemos tener pasos infinitos, nosotros no podemos hacer cosas de manera indefinida sin saber cuando vamos a terminar, tenemos que tener un fin claro, un principio claro, y una serie de pasos que nos lleven de ese principio a ese final. Por lo tanto nosotros siempre decimos que un algoritmo es **finito**. Un algortimo no tienen pasos indefinidos, siempre tenemos una cantidad limitada de pasos para poder resolver ese problema. Además un algoritmo **no es ambiguo**. Y ¿que quiero decir con esto? nosotros no podemos tener un paso que signifique algo en un contexto, y quen en otro contexto signifique otra cosa. En el algoritmo necesitamos tener a casa paso con una finalidad en particular, tiene que hacer una cosa de manera inivoca. Entonces si cumplimos esa característica, es decir si tenemos una serie de pasos para resolver un problema, que no son ambiguos, y que además, son finitos, nosotros tenemos un algoritmo.
+
+Y tú te lo vas a encontrar si comienzas a meterte más en este mundo de la programación, muchas veces graficado con lo que denominamos un diagrama de flujo:
+
+![](https://i.imgur.com/4H8CgiG.png)
+
+Es simplemente la manera gráfica de yo decir primero voy a hacer este paso, después este paso, etc. Pero, no te preocupes que en la programación nosotros tenemos diferentes formas de aprender, y no es necesario que tu toques estos gráficos al principio, sino que con el código si sigues de manera detallada y con esfuerzo estas clases vas, a poder comprender cómo se construye un algoritmo escribiendo directamente código Python.
+
+Si ya comprendes lo qué es un algortimo, estamos listos para comenzar, para meter las manos en el barro.
+
+# Instalación de nuestras herramientas.
+
+Para comenzar a programar necesitamos tener una serie de **herramientas** instaladas en nuestra computadora para escrbir código. 
+
+La primera herramienta es el **editor de código**. ¿Para que nos sirve un editor de código? Bueno, seguramente conoces el blog de notas o notepad. Un lugar en el que puedes escribri texto y guardar ese texto como un archivo ``.txt``. Ahí también podrís escribir código, si quisieras podrías escribir Python en ese blog de notas, pero seguramente sería bastante, bastante difícil, porque tendrías que tener un diferenciación clara, entre algunas palabras clave, y en otras que tu tienes que escribir. Además, el blog de notas es sumamente sencillo y no tenemos algunas opciones que nos pueden hacer la vida más fácil. Para eso existen los editores de código, y tenemos un montón en la industria de la tecnología. Tenemos ...
+
+![](https://i.imgur.com/1eVdoXd.png)
+
+Visual Studio Code, Sublime Text, Atom, Paint Chart, que es uno especializado para escribir Python. Pero de todos estos editores nosotros nos vamos a quedar con 1, con Visual Studio Code.
+
+![](https://i.imgur.com/lE3jOMx.png)
+
+## ¿Por qué con Visual Studio Code?
+
+Porque es el más popular en la industria de la tecnología para programar, la gran cantidad de desarrolladores profesionales que utiliza Visual Studio Code es enorme. Asi que, vamos a instalar Visual Studio Code y te voy a enseñar a usarlo.
+
+## ¿Qué ventajas nos da VSC al blog de notas? 
+
+Bueno, visual Studio Code nos realiza un resaltado de las palabras clave del lenguaje para que nosotros podamos diferenciar por color cuando estamos hablando de una cosa o de otra. Además, nos permite genera este espaciado que requiere Python de manera automática, y un montón de cosas más.
+
+Luego cuando tenemos el editor de código necesitamos una segunda herramienta: **la consola**. La consola es un software, un programa que nos sierve a nosotros para manejra nuestra computadora sin necesidad de la intefaz gráfica.
+
+![](https://i.imgur.com/CZ7EGOv.png)
